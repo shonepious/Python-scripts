@@ -1,4 +1,6 @@
 # Python-scripts
+This README.md is for the Webscraper script ➡️
+
 Visit my blog here to see an in-depth explanation of the code ➡️ https://spcyber.wixsite.com/shonepcyber/post/github-secrets-scraper-python
 #
 This code is a Python script that uses the Selenium library to scrape a GitHub repository or webpage for potential credentials. It does this by navigating through the repository's pages and searching for specific keywords like "password" in the HTML source.
